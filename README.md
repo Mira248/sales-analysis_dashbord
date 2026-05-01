@@ -4,6 +4,9 @@
 
 This sales data shows the company's revenue,product sold and customer demand over a period. It identifies top-selling producta,best sales region, and weak areas needing improvement. Overall,it supports better decisions and business growth.
 
+<img width="1171" height="635" alt="DASHBOARD1" src="https://github.com/user-attachments/assets/a5228233-be6d-4238-939d-154c00925b5c" />
+
+
 ### Data Source
 
 Sales data: this dataset used was gotten from 'sales_data.xlsx' file containing detailed information about each sales made by the company.
